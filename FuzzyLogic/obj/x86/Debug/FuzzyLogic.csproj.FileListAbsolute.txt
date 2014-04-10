@@ -1,0 +1,9 @@
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\FuzzyLogic.exe
+C:\Users\Ark\documents\visual studio 2010\Projects\FuzzyLogic\FuzzyLogic\obj\x86\Debug\FuzzyLogic.pdb
